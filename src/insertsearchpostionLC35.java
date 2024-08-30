@@ -23,3 +23,5 @@ public class insertsearchpostionLC35 {
         return nums.length;
     }}
 
+// yay first commit.
+
