@@ -1,5 +1,5 @@
 import java.util.*;
-public class Consectiveones {
+public class Consectiveones { // leetcode 485 questions also. same. 
     static int ones(int arr[]) {
         int result = 0;
         int current = 0;
