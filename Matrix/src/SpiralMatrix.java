@@ -23,10 +23,11 @@ public class SpiralMatrix {
             }
                 bottom--;
                 if(left<=right){
-                    for(int i= bottom; i>=top; i--){
+                    for(int i= bottom; i>=top; i--) {
                         System.out.print(mat[i][left]);
-                        left++;
                     }
+                        left++;
+
                 }
 
         }
